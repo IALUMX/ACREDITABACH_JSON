@@ -301,7 +301,7 @@
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["BÁSICO"],
     "hint": "El costo total es precio por cantidad. 'Máximo' implica que no puedes gastar más de lo que tienes.",
-    "explanation": "El costo de cuadernos es $50c$ y el de plumas $10p$. La suma no debe superar ($\le$) los 500 pesos disponibles.",
+    "explanation": "El costo de cuadernos es $50c$ y el de plumas $10p$. La suma no debe superar ($\\le$) los 500 pesos disponibles.",
     "explanative_video": null,
     "collapsible_text": null
   },
