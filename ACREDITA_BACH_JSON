@@ -2038,5 +2038,821 @@
     "explanation": "$1000 / 20 = 50$.",
     "explanative_video": null,
     "collapsible_text": null
+  },
+  {
+    "id": "CEX00aa",
+    "question": "¿Qué nivel de organización ecológica comprende a todos los organismos de diferentes especies que habitan en una misma área e interactúan entre sí?",
+    "image": null,
+    "options": [
+      { "text": "Comunidad", "correct": true },
+      { "text": "Población", "correct": false },
+      { "text": "Ecosistema", "correct": false },
+      { "text": "Biosfera", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es el nivel superior a la población pero inferior al ecosistema, pues solo considera la parte biótica.",
+    "explanation": "Una comunidad o biocenosis es el conjunto de poblaciones de diferentes especies que coexisten en un espacio y tiempo determinados.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00ab",
+    "question": "Un estudiante del CEPREDIX analiza el fenómeno del calentamiento global. Identifica que este proceso se debe principalmente a la acumulación de ciertos gases en la atmósfera que retienen la radiación infrarroja emitida por la Tierra. ¿Cómo se denomina a este fenómeno?",
+    "image": null,
+    "options": [
+      { "text": "Efecto invernadero", "correct": true },
+      { "text": "Lluvia ácida", "correct": false },
+      { "text": "Inversión térmica", "correct": false },
+      { "text": "Eutrofización", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es un proceso natural que mantiene la temperatura de la Tierra, pero su intensificación causa el cambio climático.",
+    "explanation": "El efecto invernadero es el fenómeno por el cual determinados gases retienen parte de la energía que el suelo emite por haber sido calentado por la radiación solar.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00ac",
+    "question": "¿Cuál de los siguientes es un ejemplo de factor abiótico en un ecosistema marino?",
+    "image": null,
+    "options": [
+      { "text": "Salinidad del agua", "correct": true },
+      { "text": "Fitoplancton", "correct": false },
+      { "text": "Arrecifes de coral", "correct": false },
+      { "text": "Peces depredadores", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Los factores abióticos son los componentes no vivos (físicos y químicos) del medio ambiente.",
+    "explanation": "La salinidad, al igual que la temperatura, la luz y el pH, es un factor físico-químico (abiótico) que condiciona la vida en el ecosistema marino.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00ad",
+    "question": "Selecciona la opción que contenga únicamente fuentes de energía renovable:",
+    "image": null,
+    "options": [
+      { "text": "Solar, Eólica, Geotérmica", "correct": true },
+      { "text": "Nuclear, Gas natural, Biomasa", "correct": false },
+      { "text": "Eólica, Petróleo, Hidráulica", "correct": false },
+      { "text": "Carbón, Solar, Mareomotriz", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Busca energías que se obtengan de fuentes naturales virtualmente inagotables.",
+    "explanation": "La energía solar, eólica y geotérmica provienen de recursos naturales capaces de regenerarse o que son inagotables a escala humana.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00ae",
+    "question": "En el ciclo del carbono, ¿cuál es el proceso biológico mediante el cual los productores fijan el $CO_2$ atmosférico transformándolo en materia orgánica?",
+    "image": null,
+    "options": [
+      { "text": "Fotosíntesis", "correct": true },
+      { "text": "Respiración celular", "correct": false },
+      { "text": "Descomposición", "correct": false },
+      { "text": "Combustión", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Requiere luz solar y clorofila.",
+    "explanation": "La fotosíntesis es el proceso mediante el cual las plantas y algas (productores) capturan $CO_2$ y utilizan la energía solar para sintetizar glucosa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00af",
+    "question": "El ciclo hidrológico implica cambios de estado físico. La ______ ocurre cuando el agua pasa de líquido a gas por acción del sol, y la ______ es la caída de agua líquida o sólida desde las nubes.",
+    "image": null,
+    "options": [
+      { "text": "evaporación, precipitación", "correct": true },
+      { "text": "condensación, evaporación", "correct": false },
+      { "text": "evaporación, filtración", "correct": false },
+      { "text": "precipitación, condensación", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El primer proceso sube el agua a la atmósfera, el segundo la devuelve a la superficie.",
+    "explanation": "El agua se evapora de los océanos y cuerpos de agua (líquido a gas) y regresa a la tierra mediante la precipitación (lluvia, nieve, granizo).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00ag",
+    "question": "La disminución de la capa de ozono estratosférico representa un riesgo para la salud humana y los ecosistemas debido al incremento de:",
+    "image": null,
+    "options": [
+      { "text": "Radiación ultravioleta (UV)", "correct": true },
+      { "text": "Dióxido de carbono ($CO_2$)", "correct": false },
+      { "text": "Lluvia ácida", "correct": false },
+      { "text": "Metales pesados", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La capa de ozono actúa como un filtro solar natural.",
+    "explanation": "La función principal de la capa de ozono es absorber la mayor parte de la radiación ultravioleta del sol, la cual es mutagénica y dañina para los tejidos vivos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00ah",
+    "question": "Un ecosistema está formado por la interacción dinámica entre el ______ (componentes vivos) y el ______ (medio físico).",
+    "image": null,
+    "options": [
+      { "text": "biocenosis, biotopo", "correct": true },
+      { "text": "hábitat, nicho", "correct": false },
+      { "text": "bioma, clima", "correct": false },
+      { "text": "individuo, población", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Son términos técnicos en ecología: uno refiere a la comunidad y otro al lugar físico.",
+    "explanation": "La biocenosis es el conjunto de organismos vivos, mientras que el biotopo es el espacio físico con sus condiciones ambientales donde habitan.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00ai",
+    "question": "¿Cuáles son los principales gases precursores de la lluvia ácida que reaccionan con el agua atmosférica formando ácidos fuertes?",
+    "image": null,
+    "options": [
+      { "text": "Óxidos de azufre ($SO_x$) y óxidos de nitrógeno ($NO_x$)", "correct": true },
+      { "text": "Dióxido de carbono ($CO_2$) y metano ($CH_4$)", "correct": false },
+      { "text": "Clorofluorocarbonos (CFCs) y ozono ($O_3$)", "correct": false },
+      { "text": "Monóxido de carbono ($CO$) y vapor de agua", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Estos gases se liberan principalmente por la quema de combustibles fósiles en la industria y el transporte.",
+    "explanation": "Los $SO_x$ y $NO_x$ reaccionan con el agua para formar ácido sulfúrico y ácido nítrico, acidificando la precipitación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00aj",
+    "question": "En un simposio del CEPREDIX sobre ecología, se define el Desarrollo Sustentable como aquel que satisface las necesidades del ______ sin comprometer la capacidad de las ______ para satisfacer sus propias necesidades.",
+    "image": null,
+    "options": [
+      { "text": "presente, generaciones futuras", "correct": true },
+      { "text": "mercado, industrias", "correct": false },
+      { "text": "gobierno, poblaciones actuales", "correct": false },
+      { "text": "ecosistema, especies animales", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es la definición clásica del Informe Brundtland.",
+    "explanation": "El desarrollo sustentable busca un equilibrio entre crecimiento económico, cuidado del medio ambiente y bienestar social a largo plazo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00ak",
+    "question": "¿Qué rol ecológico desempeñan las bacterias y los hongos en un ecosistema al transformar la materia orgánica muerta en inorgánica?",
+    "image": null,
+    "options": [
+      { "text": "Descomponedores", "correct": true },
+      { "text": "Productores", "correct": false },
+      { "text": "Consumidores primarios", "correct": false },
+      { "text": "Consumidores secundarios", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Cierran los ciclos biogeoquímicos reciclando nutrientes.",
+    "explanation": "Los descomponedores o saprófitos degradan los restos orgánicos, devolviendo minerales y nutrientes al suelo para que sean usados nuevamente por los productores.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00al",
+    "question": "Relaciona el tipo de contaminante con su ejemplo correspondiente: A) Físico, B) Químico, C) Biológico; I) Virus y bacterias, II) Ruido y radiación, III) Plaguicidas y metales pesados.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Físico refiere a energía, Químico a sustancias y Biológico a seres vivos.",
+    "explanation": "El ruido es una forma de energía (Físico), los plaguicidas son sustancias sintéticas (Químico) y los virus son agentes patógenos (Biológico).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00am",
+    "question": "¿Qué fenómeno ambiental se produce por el exceso de nutrientes (principalmente nitrógeno y fósforo) en cuerpos de agua, provocando un crecimiento descontrolado de algas?",
+    "image": null,
+    "options": [
+      { "text": "Eutrofización", "correct": true },
+      { "text": "Desertificación", "correct": false },
+      { "text": "Salinización", "correct": false },
+      { "text": "Lixiviación", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Este proceso agota el oxígeno del agua causando la muerte de peces.",
+    "explanation": "La eutrofización es el enriquecimiento excesivo de nutrientes que estimula el crecimiento de fitoplancton, bloqueando la luz y consumiendo el oxígeno al descomponerse.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00an",
+    "question": "El término \"Biodiversidad\" hace referencia a:",
+    "image": null,
+    "options": [
+      { "text": "La variedad de formas de vida en la Tierra, incluyendo genes, especies y ecosistemas", "correct": true },
+      { "text": "La cantidad de individuos de una sola especie en un área", "correct": false },
+      { "text": "El número de ecosistemas acuáticos en un continente", "correct": false },
+      { "text": "La diversidad de minerales presentes en el suelo", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Bio significa vida y diversidad variedad.",
+    "explanation": "La biodiversidad abarca la diversidad genética, de especies y de ecosistemas en el planeta.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00ao",
+    "question": "¿Qué proceso describe la concentración progresiva de sustancias tóxicas (como mercurio o pesticidas) a lo largo de los eslabones de una cadena trófica?",
+    "image": null,
+    "options": [
+      { "text": "Biomagnificación", "correct": true },
+      { "text": "Biodegradación", "correct": false },
+      { "text": "Biorremediación", "correct": false },
+      { "text": "Compostaje", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Ocurre porque los depredadores consumen muchas presas contaminadas.",
+    "explanation": "La biomagnificación (o bioacumulación trófica) es el aumento de la concentración de un contaminante en los tejidos de los organismos a medida que se sube en la cadena alimentaria.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00ap",
+    "question": "Identifica la opción que lista únicamente gases de efecto invernadero (GEI):",
+    "image": null,
+    "options": [
+      { "text": "Dióxido de carbono ($CO_2$), Metano ($CH_4$), Óxido nitroso ($N_2O$)", "correct": true },
+      { "text": "Oxígeno ($O_2$), Nitrógeno ($N_2$), Argón (Ar)", "correct": false },
+      { "text": "Dióxido de carbono ($CO_2$), Oxígeno ($O_2$), Helio (He)", "correct": false },
+      { "text": "Metano ($CH_4$), Hidrógeno ($H_2$), Cloro ($Cl_2$)", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Son gases que atrapan calor; el oxígeno y nitrógeno diatómicos no lo hacen significativamente.",
+    "explanation": "El $CO_2$, $CH_4$ y $N_2O$ son los principales GEI derivados de actividades humanas que contribuyen al calentamiento global.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00aq",
+    "question": "Una brigada del CEPREDIX está reforestando una ladera. ¿Cuál es el principal beneficio ambiental de esta acción en relación con la conservación del suelo?",
+    "image": null,
+    "options": [
+      { "text": "Prevención de la erosión", "correct": true },
+      { "text": "Aumento de la salinidad", "correct": false },
+      { "text": "Disminución de la oxigenación", "correct": false },
+      { "text": "Eliminación de bacterias nitrificantes", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Las raíces de las plantas actúan como una red que sujeta la tierra.",
+    "explanation": "La cubierta vegetal protege al suelo del impacto directo de la lluvia y el viento, y las raíces anclan el suelo evitando su desgaste o erosión.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00ar",
+    "question": "La ______ es un indicador que mide la superficie de tierra y agua biológicamente productiva necesaria para producir los recursos que consume un individuo y absorber sus residuos.",
+    "image": null,
+    "options": [
+      { "text": "Huella ecológica", "correct": true },
+      { "text": "Capacidad de carga", "correct": false },
+      { "text": "Huella de carbono", "correct": false },
+      { "text": "Resiliencia ambiental", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Evalúa el impacto humano sobre el planeta.",
+    "explanation": "La huella ecológica mide la demanda humana sobre los ecosistemas de la Tierra en comparación con la capacidad ecológica del planeta para regenerar recursos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00as",
+    "question": "¿Qué tecnología permite transformar directamente la radiación solar en energía eléctrica mediante el uso de semiconductores?",
+    "image": null,
+    "options": [
+      { "text": "Celdas fotovoltaicas", "correct": true },
+      { "text": "Colectores térmicos", "correct": false },
+      { "text": "Turbinas eólicas", "correct": false },
+      { "text": "Biocombustibles", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es la tecnología usada en los paneles solares comunes.",
+    "explanation": "Las celdas fotovoltaicas utilizan el efecto fotoeléctrico para generar corriente eléctrica cuando son expuestas a la luz solar.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00at",
+    "question": "En la relación interespecífica conocida como mutualismo, una especie se ______ y la otra especie también se ______.",
+    "image": null,
+    "options": [
+      { "text": "beneficia, beneficia", "correct": true },
+      { "text": "beneficia, perjudica", "correct": false },
+      { "text": "beneficia, mantiene indiferente", "correct": false },
+      { "text": "perjudica, perjudica", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es una interacción ganar-ganar, como las abejas y las flores.",
+    "explanation": "El mutualismo es una interacción biológica donde ambos organismos obtienen un beneficio para su supervivencia o reproducción.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00au",
+    "question": "¿Cuál es una consecuencia directa del derretimiento de los casquetes polares debido al calentamiento global?",
+    "image": null,
+    "options": [
+      { "text": "Aumento del nivel del mar", "correct": true },
+      { "text": "Disminución de la temperatura oceánica", "correct": false },
+      { "text": "Aumento de la salinidad global", "correct": false },
+      { "text": "Estabilización del clima", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El agua sólida se vuelve líquida y se suma al volumen del océano.",
+    "explanation": "Al derretirse el hielo continental (glaciares y casquetes), el volumen de agua en los océanos aumenta, elevando el nivel del mar y amenazando zonas costeras.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00av",
+    "question": "La estrategia de las \"3R\" para la gestión de residuos sólidos propone el siguiente orden de jerarquía: ______ el consumo, ______ los productos y ______ los materiales.",
+    "image": null,
+    "options": [
+      { "text": "Reducir, Reutilizar, Reciclar", "correct": true },
+      { "text": "Reciclar, Reducir, Reutilizar", "correct": false },
+      { "text": "Reutilizar, Reciclar, Reducir", "correct": false },
+      { "text": "Rechazar, Reponer, Reciclar", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Lo mejor es no generar basura, luego usarla de nuevo y al final procesarla.",
+    "explanation": "La jerarquía prioriza la reducción en la fuente, seguida de alargar la vida útil del producto (reutilizar) y finalmente transformar el material (reciclar).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00aw",
+    "question": "Investigadores del CEPREDIX estudian por qué en invierno, en ciudades rodeadas de montañas, los contaminantes se quedan atrapados cerca del suelo. Esto ocurre cuando una capa de aire caliente se sitúa sobre una de aire frío, impidiendo la circulación. ¿Cómo se llama este fenómeno?",
+    "image": null,
+    "options": [
+      { "text": "Inversión térmica", "correct": true },
+      { "text": "Efecto Coriolis", "correct": false },
+      { "text": "Isla de calor", "correct": false },
+      { "text": "Convección atmosférica", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Invierte el comportamiento normal de la temperatura con la altura.",
+    "explanation": "La inversión térmica rompe el flujo normal del aire; el aire frío (más denso) queda abajo atrapando la contaminación, tapado por una capa de aire caliente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00ax",
+    "question": "Relaciona el bioma con su característica principal: A) Tundra, B) Selva Tropical, C) Desierto; I) Alta biodiversidad y lluvia abundante, II) Escasez de agua y temperaturas extremas, III) Subsuelo congelado y vegetación baja.",
+    "image": null,
+    "options": [
+      { "text": "A-III; B-I; C-II", "correct": true },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La Tundra es fría, la Selva húmeda y el Desierto seco.",
+    "explanation": "La Tundra se caracteriza por el permafrost (III), la Selva es el bioma más biodiverso (I) y el Desierto tiene déficit hídrico (II).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00ay",
+    "question": "En zonas industriales con alta quema de carbón y petróleo, se liberan a la atmósfera grandes cantidades de óxidos de nitrógeno ($NO_x$) y dióxido de azufre ($SO_2$). Estos gases reaccionan con el vapor de agua en las nubes formando ácidos nítrico y sulfúrico, los cuales se precipitan a la tierra. ¿Cuál es el fenómeno ambiental descrito que afecta la acidez de suelos y lagos?",
+    "image": null,
+    "options": [
+      { "text": "Lluvia ácida", "correct": true },
+      { "text": "Efecto invernadero", "correct": false },
+      { "text": "Inversión térmica", "correct": false },
+      { "text": "Eutrofización", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Implica la precipitación de sustancias ácidas generadas por contaminantes gaseosos.",
+    "explanation": "La lluvia ácida se forma cuando la humedad en el aire se combina con los óxidos de nitrógeno y el dióxido de azufre emitidos por fábricas, centrales eléctricas y vehículos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00az",
+    "question": "Se ha detectado una alta concentración de mercurio en los tejidos de atunes y peces espada, depredadores tope en el océano. Este metal pesado ingresó al ecosistema en concentraciones bajas, pero fue aumentando su concentración en los tejidos de los organismos a medida que ascendía por la cadena alimentaria. ¿Cómo se denomina este proceso ecológico?",
+    "image": null,
+    "options": [
+      { "text": "Biomagnificación", "correct": true },
+      { "text": "Biodegradación", "correct": false },
+      { "text": "Comensalismo", "correct": false },
+      { "text": "Sucesión ecológica", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El tóxico se 'magnifica' o incrementa conforme sube de nivel trófico.",
+    "explanation": "La biomagnificación es el proceso mediante el cual sustancias tóxicas se acumulan en concentraciones crecientes en los niveles superiores de la cadena trófica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00ba",
+    "question": "El ciclo del nitrógeno es esencial para la vida, ya que este elemento forma parte de proteínas y ácidos nucleicos. En la etapa de ______, ciertas bacterias del suelo y de los nódulos de las leguminosas toman el nitrógeno atmosférico ($N_2$) y lo convierten en compuestos utilizables como el amoníaco ($NH_3$). Posteriormente, en la ______, otras bacterias liberan el nitrógeno de regreso a la atmósfera.",
+    "image": null,
+    "options": [
+      { "text": "fijación, desnitrificación", "correct": true },
+      { "text": "nitrificación, asimilación", "correct": false },
+      { "text": "amonificación, fijación", "correct": false },
+      { "text": "asimilación, nitrificación", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Primero se 'fija' el gas inerte para usarlo, y al final se quita el nitrógeno del suelo devolviéndolo al aire.",
+    "explanation": "La fijación biológica convierte el $N_2$ en formas asimilables, mientras que la desnitrificación realizada por bacterias anaerobias devuelve el nitrógeno gaseoso a la atmósfera.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bb",
+    "question": "Relaciona los siguientes elementos del ecosistema con su clasificación correcta como factor biótico o abiótico: A) Luz solar, B) Bacterias descomponedoras, C) pH del suelo, D) Competencia intraespecífica.",
+    "image": null,
+    "options": [
+      { "text": "Abiótico: A, C; Biótico: B, D", "correct": true },
+      { "text": "Abiótico: B, D; Biótico: A, C", "correct": false },
+      { "text": "Abiótico: A, B; Biótico: C, D", "correct": false },
+      { "text": "Abiótico: C, D; Biótico: A, B", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Biótico refiere a la vida y sus interacciones; abiótico a los componentes físico-químicos.",
+    "explanation": "La luz y el pH son condiciones físicas (abiótico). Las bacterias son seres vivos y la competencia es una interacción entre seres vivos (biótico).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bc",
+    "question": "Para reducir la dependencia de combustibles fósiles, un gobierno decide invertir en nuevas plantas generadoras de energía. Selecciona la opción que contiene únicamente fuentes de energía consideradas limpias y renovables.",
+    "image": null,
+    "options": [
+      { "text": "Eólica, Geotérmica, Mareomotriz", "correct": true },
+      { "text": "Nuclear, Gas Natural, Solar", "correct": false },
+      { "text": "Hidroeléctrica, Carbón, Biomasa", "correct": false },
+      { "text": "Petróleo, Eólica, Hidrógeno azul", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Descarta opciones que incluyan hidrocarburos (gas, carbón, petróleo) o minerales finitos (uranio).",
+    "explanation": "La energía eólica, geotérmica y mareomotriz provienen de fuentes naturales inagotables y no emiten gases de efecto invernadero en su generación directa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bd",
+    "question": "Después de una erupción volcánica que cubre el suelo de lava endurecida, no queda vida ni suelo fértil. Con el tiempo, aparecen líquenes y musgos que comienzan a degradar la roca, seguidos de hierbas y arbustos. ¿Qué tipo de proceso ecológico se está llevando a cabo?",
+    "image": null,
+    "options": [
+      { "text": "Sucesión ecológica primaria", "correct": true },
+      { "text": "Sucesión ecológica secundaria", "correct": false },
+      { "text": "Restauración ecológica", "correct": false },
+      { "text": "Selección natural", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Ocurre en una superficie donde no existía suelo previo.",
+    "explanation": "La sucesión primaria inicia en áreas desprovistas de vida y suelo (como roca volcánica recién formada), a diferencia de la secundaria que ocurre donde ya había suelo pero la vegetación fue eliminada.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00be",
+    "question": "Durante décadas, el uso de clorofluorocarbonos (CFC) en refrigerantes y aerosoles liberó cloro a la atmósfera alta. Este cloro reacciona destruyendo las moléculas de $O_3$, adelgazando la capa que protege a la Tierra. ¿Cuál es la principal consecuencia biológica del agotamiento de esta capa?",
+    "image": null,
+    "options": [
+      { "text": "Mayor incidencia de cáncer de piel y daños oculares por radiación UV", "correct": true },
+      { "text": "Aumento global de la temperatura por retención de calor", "correct": false },
+      { "text": "Acidificación de los océanos por absorción de cloro", "correct": false },
+      { "text": "Disminución del oxígeno disponible para respirar", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La capa de ozono filtra los rayos ultravioleta.",
+    "explanation": "La capa de ozono absorbe la radiación ultravioleta B (UV-B). Sin ella, esta radiación llega a la superficie causando daños al ADN de las células de la piel y ojos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bf",
+    "question": "El pez león es originario del Indo-Pacífico, pero fue introducido accidentalmente en el Caribe. Al no tener depredadores naturales en esta nueva zona, su población creció desmedidamente, depredando a las especies locales y alterando el equilibrio del arrecife. ¿Qué término define al pez león en este contexto?",
+    "image": null,
+    "options": [
+      { "text": "Especie invasora", "correct": true },
+      { "text": "Especie endémica", "correct": false },
+      { "text": "Especie clave", "correct": false },
+      { "text": "Especie en peligro de extinción", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es una especie exótica que causa daño al nuevo ecosistema.",
+    "explanation": "Las especies invasoras son organismos no nativos que se propagan rápidamente y causan daños ecológicos, económicos o de salud en el nuevo entorno.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bg",
+    "question": "Un lago cercano a campos de cultivo comienza a tornarse verde y turbio debido al exceso de nitratos y fosfatos arrastrados por la lluvia. Este fenómeno, conocido como eutrofización, provoca la proliferación de algas que, al morir, son descompuestas por bacterias que consumen todo el ______ disuelto, causando la muerte de los peces por ______.",
+    "image": null,
+    "options": [
+      { "text": "oxígeno, anoxia", "correct": true },
+      { "text": "dióxido de carbono, asfixia", "correct": false },
+      { "text": "nitrógeno, intoxicación", "correct": false },
+      { "text": "hidrógeno, deshidratación", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Los peces necesitan O2 disuelto en agua para respirar.",
+    "explanation": "La descomposición masiva de algas agota el oxígeno del agua (hipoxia o anoxia), lo que impide la respiración de los organismos acuáticos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bh",
+    "question": "En una población de ciervos, el crecimiento poblacional se detiene cuando los recursos (alimento, agua, espacio) ya no son suficientes para sostener a más individuos. El número máximo de individuos que el ambiente puede soportar de manera indefinida se denomina:",
+    "image": null,
+    "options": [
+      { "text": "Capacidad de carga", "correct": true },
+      { "text": "Potencial biótico", "correct": false },
+      { "text": "Resistencia ambiental", "correct": false },
+      { "text": "Densidad poblacional", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es el límite superior de crecimiento poblacional representado a menudo con la letra K.",
+    "explanation": "La capacidad de carga es el tamaño máximo de población que un ecosistema puede mantener con los recursos disponibles sin degradarse.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bi",
+    "question": "El grupo ecológico del CEPREDIX está diseñando una ciudad modelo. Su objetivo es implementar un sistema donde el desarrollo económico y social no agote los recursos naturales, garantizando el bienestar de las generaciones presentes y futuras. ¿Qué paradigma ambiental están aplicando?",
+    "image": null,
+    "options": [
+      { "text": "Desarrollo sustentable", "correct": true },
+      { "text": "Obsolescencia programada", "correct": false },
+      { "text": "Consumismo verde", "correct": false },
+      { "text": "Explotación intensiva", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Busca el equilibrio entre economía, sociedad y ambiente a largo plazo.",
+    "explanation": "El desarrollo sustentable es aquel que satisface las necesidades del presente sin comprometer la capacidad de las generaciones futuras para satisfacer las suyas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bj",
+    "question": "Las rémoras son peces que se adhieren al cuerpo de los tiburones para transportarse y alimentarse de los restos de comida que deja el tiburón, sin causarle daño ni beneficio alguno a este último. ¿Qué tipo de relación interespecífica es esta?",
+    "image": null,
+    "options": [
+      { "text": "Comensalismo", "correct": true },
+      { "text": "Mutualismo", "correct": false },
+      { "text": "Parasitismo", "correct": false },
+      { "text": "Depredación", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Uno gana (+), el otro es neutral (0).",
+    "explanation": "En el comensalismo, una especie se beneficia mientras que la otra no se ve afectada ni positiva ni negativamente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bk",
+    "question": "El calentamiento global está provocando la fusión de los glaciares continentales en Groenlandia y la Antártida. Además de la pérdida de hábitat polar, ¿cuál es el impacto físico más directo y preocupante para las zonas costeras de baja altitud alrededor del mundo?",
+    "image": null,
+    "options": [
+      { "text": "Aumento del nivel medio del mar", "correct": true },
+      { "text": "Disminución de la salinidad oceánica", "correct": false },
+      { "text": "Aumento de la actividad volcánica", "correct": false },
+      { "text": "Proliferación de algas tóxicas", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El agua derretida se suma al volumen del océano.",
+    "explanation": "El derretimiento del hielo terrestre añade agua a los océanos, lo que, junto con la expansión térmica del agua, eleva el nivel del mar amenazando con inundar ciudades costeras.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bl",
+    "question": "Tras un derrame petrolero en el Golfo de México, científicos aplicaron bacterias especializadas capaces de degradar los hidrocarburos y transformarlos en sustancias menos tóxicas. ¿Cómo se conoce a esta técnica de limpieza ambiental?",
+    "image": null,
+    "options": [
+      { "text": "Biorremediación", "correct": true },
+      { "text": "Bioacumulación", "correct": false },
+      { "text": "Compostaje industrial", "correct": false },
+      { "text": "Reciclaje químico", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Uso de 'bio' (vida) para 'remediar' (curar) el ambiente.",
+    "explanation": "La biorremediación utiliza organismos vivos (bacterias, hongos, plantas) para eliminar o neutralizar contaminantes de un sitio.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bm",
+    "question": "La fotosíntesis es fundamental para el flujo de energía en los ecosistemas. En este proceso, las plantas capturan energía luminosa y la transforman en energía química almacenada en la molécula de ______, liberando ______ como subproducto vital para la respiración aerobia.",
+    "image": null,
+    "options": [
+      { "text": "glucosa, oxígeno", "correct": true },
+      { "text": "ATP, dióxido de carbono", "correct": false },
+      { "text": "almidón, nitrógeno", "correct": false },
+      { "text": "agua, metano", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El producto principal es un azúcar y el gas es el que respiramos.",
+    "explanation": "La ecuación general de la fotosíntesis produce glucosa ($C_6H_{12}O_6$) como fuente de energía y libera oxígeno ($O_2$) al ambiente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bn",
+    "question": "Relaciona correctamente el nivel trófico con el organismo que lo representa: A) Productor, B) Consumidor Primario, C) Consumidor Secundario; I) Lobo, II) Conejo, III) Pasto.",
+    "image": null,
+    "options": [
+      { "text": "A-III; B-II; C-I", "correct": true },
+      { "text": "A-I; B-III; C-II", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El pasto hace fotosíntesis, el conejo come pasto, el lobo come al conejo.",
+    "explanation": "Los productores (pasto) son autótrofos. Los consumidores primarios (conejo) son herbívoros. Los consumidores secundarios (lobo) son carnívoros que comen herbívoros.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bo",
+    "question": "Selecciona la opción que lista gases que contribuyen significativamente al efecto invernadero antropogénico.",
+    "image": null,
+    "options": [
+      { "text": "Dióxido de carbono ($CO_2$), Metano ($CH_4$), Óxido nitroso ($N_2O$)", "correct": true },
+      { "text": "Nitrógeno ($N_2$), Oxígeno ($O_2$), Argón ($Ar$)", "correct": false },
+      { "text": "Vapor de agua, Helio ($He$), Hidrógeno ($H_2$)", "correct": false },
+      { "text": "Monóxido de carbono ($CO$), Dióxido de azufre ($SO_2$), Ozono estratosférico", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Son moléculas poliatómicas capaces de absorber radiación infrarroja.",
+    "explanation": "El $CO_2$, $CH_4$ y $N_2O$ son los principales gases de efecto invernadero de larga duración emitidos por actividades humanas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bp",
+    "question": "Un ciudadano calcula la superficie de tierra productiva necesaria para proporcionar los recursos que consume (alimentos, transporte, vivienda) y absorber sus residuos. Si todos consumieran como él, se necesitarían 3 planetas Tierra. ¿Qué indicador ambiental está utilizando este ciudadano?",
+    "image": null,
+    "options": [
+      { "text": "Huella ecológica", "correct": true },
+      { "text": "Huella hídrica", "correct": false },
+      { "text": "Índice de desarrollo humano", "correct": false },
+      { "text": "Capacidad de carga", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Mide el impacto de la demanda humana sobre la biosfera.",
+    "explanation": "La huella ecológica es la medida de la demanda humana sobre los ecosistemas de la Tierra.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bq",
+    "question": "Un estudio del CEPREDIX en la Ciudad de México muestra que la temperatura en el centro urbano es varios grados más alta que en las zonas rurales circundantes debido al asfalto, edificios y falta de vegetación. ¿Cómo se denomina a este fenómeno microclimático?",
+    "image": null,
+    "options": [
+      { "text": "Isla de calor urbana", "correct": true },
+      { "text": "Efecto invernadero global", "correct": false },
+      { "text": "Inversión térmica", "correct": false },
+      { "text": "Cambio climático", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es una 'isla' de temperatura alta en medio de un área más fresca.",
+    "explanation": "La isla de calor urbana ocurre porque los materiales de construcción absorben más calor que la vegetación y lo liberan lentamente, elevando la temperatura local.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00br",
+    "question": "En regiones áridas y semiáridas, el mal manejo del suelo, la deforestación y el sobrepastoreo están provocando la degradación de la tierra fértil, convirtiéndola en zonas improductivas similares a un desierto. ¿Cuál es el nombre de este proceso?",
+    "image": null,
+    "options": [
+      { "text": "Desertificación", "correct": true },
+      { "text": "Erosión eólica", "correct": false },
+      { "text": "Salinización", "correct": false },
+      { "text": "Deforestación", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es la transformación de tierras fértiles en condiciones desérticas.",
+    "explanation": "La desertificación es la degradación persistente de los ecosistemas de tierras secas producida por variaciones climáticas y la actividad humana.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bs",
+    "question": "El ciclo del agua es impulsado por la energía solar. El proceso de ______ convierte el agua líquida de océanos y lagos en vapor, mientras que la ______ libera vapor de agua desde las hojas de las plantas hacia la atmósfera.",
+    "image": null,
+    "options": [
+      { "text": "evaporación, transpiración", "correct": true },
+      { "text": "condensación, respiración", "correct": false },
+      { "text": "precipitación, fotosíntesis", "correct": false },
+      { "text": "filtración, evaporación", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Uno es físico desde superficies de agua, el otro es biológico desde las plantas.",
+    "explanation": "La evaporación ocurre en cuerpos de agua, y la transpiración es la pérdida de agua en forma de vapor a través de los estomas de las plantas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bt",
+    "question": "En los bosques de algas marinas, la nutria marina se alimenta de erizos de mar. Si las nutrias desaparecen, los erizos se reproducen sin control y devoran el bosque de algas, destruyendo el ecosistema. Por su rol desproporcionadamente importante en mantener la estructura de la comunidad, la nutria es considerada una:",
+    "image": null,
+    "options": [
+      { "text": "Especie clave", "correct": true },
+      { "text": "Especie invasora", "correct": false },
+      { "text": "Especie pionera", "correct": false },
+      { "text": "Especie generalista", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Es como la pieza central de un arco ('keystone') que si se quita, todo colapsa.",
+    "explanation": "Una especie clave (keystone species) tiene un efecto en su entorno desproporcionadamente grande en relación con su abundancia. Su eliminación altera drásticamente el ecosistema.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bu",
+    "question": "La contaminación por plásticos en los océanos es un problema global. Con el tiempo, la acción de las olas y la luz solar fragmentan el plástico en partículas menores a 5 mm, las cuales son ingeridas por el plancton y peces pequeños, entrando así en la cadena alimentaria. ¿Cómo se llaman estas partículas?",
+    "image": null,
+    "options": [
+      { "text": "Microplásticos", "correct": true },
+      { "text": "Nanotubos", "correct": false },
+      { "text": "Polímeros biodegradables", "correct": false },
+      { "text": "Residuos orgánicos", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El prefijo 'micro' indica su tamaño pequeño.",
+    "explanation": "Los microplásticos son pequeñas piezas de plástico, menores a 5 mm, que resultan de la degradación de plásticos mayores o son fabricados así (como en cosméticos).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEX00bv",
+    "question": "En una campaña de concientización del CEPREDIX sobre residuos sólidos, se promueve la regla de las 3R. Se explica que ______ implica disminuir la cantidad de residuos generados desde el origen, mientras que ______ consiste en procesar los materiales usados para fabricar nuevos productos.",
+    "image": null,
+    "options": [
+      { "text": "reducir, reciclar", "correct": true },
+      { "text": "reciclar, reutilizar", "correct": false },
+      { "text": "reutilizar, reducir", "correct": false },
+      { "text": "reducir, rechazar", "correct": false }
+    ],
+    "uni_tags": ["CIENCIAS EXPERIMENTALES"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La primera R ataca el problema antes de que exista basura; la última transforma la basura.",
+    "explanation": "Reducir es minimizar la generación de residuos. Reciclar es someter los materiales a un proceso físico-químico para volver a utilizarlos como materia prima.",
+    "explanative_video": null,
+    "collapsible_text": null
   }
 ]
