@@ -4,10 +4,10 @@
     "question": "Un capital de $C$ pesos se invierte a una tasa de interés anual del $r$% capitalizable mensualmente durante $t$ años. El modelo que representa el monto final $M$ es $M = C(1 + \\frac{r}{12})^{12t}$. Si se tiene la expresión $10,000(1 + \\frac{0.12}{12})^{24}$, ¿cuál de las siguientes afirmaciones describe la situación financiera?",
     "image": null,
     "options": [
-      { "text": "Se invirtieron $10,000 al 12% anual capitalizable mensualmente por 2 años.", "correct": true },
-      { "text": "Se invirtieron $10,000 al 1% anual capitalizable mensualmente por 24 años.", "correct": false },
-      { "text": "Se invirtieron $10,000 al 12% mensual por 2 años.", "correct": false },
-      { "text": "Se invirtieron $10,000 al 12% anual por 24 meses sin capitalización.", "correct": false }
+      { "text": "Se invirtieron \\$10,000 al 12% anual capitalizable mensualmente por 2 años.", "correct": true },
+      { "text": "Se invirtieron \\$10,000 al 1% anual capitalizable mensualmente por 24 años.", "correct": false },
+      { "text": "Se invirtieron \\$10,000 al 12% mensual por 2 años.", "correct": false },
+      { "text": "Se invirtieron \\$10,000 al 12% anual por 24 meses sin capitalización.", "correct": false }
     ],
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["INTERMEDIO"],
@@ -613,7 +613,7 @@
   },
   {
     "id": "MAT00bk",
-    "question": "Para un concierto se venden boletos de adulto ($x$) a $50 y de niño ($y$) a $20. Se plantea el sistema:\n$\\begin{cases} x + y = 200 \\\\ 50x + 20y = 7000 \\end{cases}$\n¿Qué interpreta la primera ecuación?",
+    "question": "Para un concierto se venden boletos de adulto ($x$) a \\$50 y de niño ($y$) a \\$20. Se plantea el sistema:\n$\\begin{cases} x + y = 200 \\\\ 50x + 20y = 7000 \\end{cases}$\n¿Qué interpreta la primera ecuación?",
     "image": null,
     "options": [
       { "text": "Se vendieron un total de 200 boletos.", "correct": true },
@@ -667,7 +667,7 @@
     "question": "Se tiene un frasco con monedas de 5 pesos ($x$) y 10 pesos ($y$). Si el sistema es:\n$\\begin{cases} x + y = 30 \\\\ 5x + 10y = 200 \\end{cases}$\n¿Qué representa la segunda ecuación?",
     "image": null,
     "options": [
-      { "text": "El valor total del dinero en el frasco es de $200.", "correct": true },
+      { "text": "El valor total del dinero en el frasco es de \\$200.", "correct": true },
       { "text": "Hay 200 monedas en total.", "correct": false },
       { "text": "La diferencia entre el valor de las monedas es 200.", "correct": false },
       { "text": "Hay 5 monedas de $x$ y 10 monedas de $y$.", "correct": false }
@@ -766,7 +766,7 @@
   },
   {
     "id": "MAT00bt",
-    "question": "Se invierte un total de $10,000 en dos cuentas, una al 5% ($x$) y otra al 8% ($y$). Si el interés total anual es de $700, ¿cuál es el sistema correcto?",
+    "question": "Se invierte un total de \\$10,000 en dos cuentas, una al 5% ($x$) y otra al 8% ($y$). Si el interés total anual es de \\$700, ¿cuál es el sistema correcto?",
     "image": null,
     "options": [
       { "text": "$\\begin{cases} x + y = 10000 \\\\ 0.05x + 0.08y = 700 \\end{cases}$", "correct": true },
@@ -834,7 +834,7 @@
   },
   {
     "id": "MAT00bx",
-    "question": "Se compraron $x$ lápices a un precio total de $60. Si cada lápiz hubiera costado $1 peso menos, se habrían podido comprar 3 lápices más con la misma cantidad de dinero. ¿Cuál es el planteamiento correcto para encontrar el número de lápices?",
+    "question": "Se compraron $x$ lápices a un precio total de \\$60. Si cada lápiz hubiera costado \\$1 peso menos, se habrían podido comprar 3 lápices más con la misma cantidad de dinero. ¿Cuál es el planteamiento correcto para encontrar el número de lápices?",
     "image": null,
     "options": [
       { "text": "$(\\frac{60}{x} - 1)(x + 3) = 60$", "correct": true },
@@ -936,7 +936,7 @@
   },
   {
     "id": "MAT00cd",
-    "question": "Un grupo de amigos paga $1200 por una cena. Si hubieran ido 2 amigos más, cada uno habría pagado $30 menos. Si $x$ es el número original de amigos, ¿cuál es la ecuación?",
+    "question": "Un grupo de amigos paga \\$1200 por una cena. Si hubieran ido 2 amigos más, cada uno habría pagado \\$30 menos. Si $x$ es el número original de amigos, ¿cuál es la ecuación?",
     "image": null,
     "options": [
       { "text": "$(\\frac{1200}{x} - 30)(x + 2) = 1200$", "correct": true },
@@ -947,7 +947,7 @@
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Costo original por persona es $1200/x$. Al aumentar personas, el costo disminuye.",
-    "explanation": "El nuevo costo por persona es $(\\frac{1200}{x} - 30)$. La nueva cantidad de personas es $(x+2)$. El producto debe seguir siendo la cuenta total de $1200.",
+    "explanation": "El nuevo costo por persona es $(\\frac{1200}{x} - 30)$. La nueva cantidad de personas es $(x+2)$. El producto debe seguir siendo la cuenta total de \\$1200.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -1004,7 +1004,7 @@
   },
   {
     "id": "MAT00ch",
-    "question": "En una tienda, el precio de un abrigo tiene un descuento del 20%. Si el precio final es de $800, ¿cuál es la ecuación para hallar el precio original $p$?",
+    "question": "En una tienda, el precio de un abrigo tiene un descuento del 20%. Si el precio final es de \\$800, ¿cuál es la ecuación para hallar el precio original $p$?",
     "image": null,
     "options": [
       { "text": "$0.80p = 800$", "correct": true },
@@ -1157,7 +1157,7 @@
   },
   {
     "id": "MAT00cq",
-    "question": "Se invirtieron $x$ pesos al 10% y $y$ pesos al 15% anual, generando un interés total de $1200. La cantidad invertida al 10% es el doble que la del 15%. ¿Cuál es el sistema?",
+    "question": "Se invirtieron $x$ pesos al 10% y $y$ pesos al 15% anual, generando un interés total de \\$1200. La cantidad invertida al 10% es el doble que la del 15%. ¿Cuál es el sistema?",
     "image": null,
     "options": [
       { "text": "$\\begin{cases} 0.10x + 0.15y = 1200 \\\\ x = 2y \\end{cases}$", "correct": true },
@@ -1225,13 +1225,13 @@
   },
   {
     "id": "MAT00cu",
-    "question": "Un comerciante mezcla 5 kg de cacahuates de $80 el kg con 5 kg de nueces de $120 el kg. ¿Cuál es el costo por kilogramo de la mezcla resultante?",
+    "question": "Un comerciante mezcla 5 kg de cacahuates de \\$80 el kg con 5 kg de nueces de \\$120 el kg. ¿Cuál es el costo por kilogramo de la mezcla resultante?",
     "image": null,
     "options": [
-      { "text": "$100", "correct": true },
-      { "text": "$90", "correct": false },
-      { "text": "$110", "correct": false },
-      { "text": "$200", "correct": false }
+      { "text": "\\$100", "correct": true },
+      { "text": "\\$90", "correct": false },
+      { "text": "\\$110", "correct": false },
+      { "text": "\\$200", "correct": false }
     ],
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["BÁSICO"],
@@ -1241,19 +1241,19 @@
     "collapsible_text": null
   },
   {
-    "id": "MAT00cv",
-    "question": "María compra 3 cuadernos por $45. Si necesita comprar 7 cuadernos más del mismo tipo, ¿cuánto pagará por los 7 cuadernos extra?",
+    "id": "MAT00cx",
+    "question": "En una tienda, una camisa cuesta \\$400. Si tiene un descuento del 20%, ¿cuánto se paga finalmente por ella?",
     "image": null,
     "options": [
-      { "text": "$105", "correct": true },
-      { "text": "$150", "correct": false },
-      { "text": "$90", "correct": false },
-      { "text": "$135", "correct": false }
+      { "text": "\\$320", "correct": true },
+      { "text": "\\$380", "correct": false },
+      { "text": "\\$80", "correct": false },
+      { "text": "\\$300", "correct": false }
     ],
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["BÁSICO"],
-    "hint": "Encuentra el costo unitario de un cuaderno primero.",
-    "explanation": "Precio por cuaderno: $45 / 3 = 15$. Costo de 7 cuadernos: $7 \\times 15 = 105$.",
+    "hint": "Calcula el 20% de 400 y réstalo al precio original.",
+    "explanation": "Descuento: $400 \\times 0.20 = 80$. Precio final: $400 - 80 = 320$.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -1310,13 +1310,13 @@
   },
   {
     "id": "MAT00cz",
-    "question": "Se reparten $500 entre dos personas en razón de 2:3. ¿Cuánto recibe la persona con la menor parte?",
+    "question": "Se reparten \\$500 entre dos personas en razón de 2:3. ¿Cuánto recibe la persona con la menor parte?",
     "image": null,
     "options": [
-      { "text": "$200", "correct": true },
-      { "text": "$300", "correct": false },
-      { "text": "$100", "correct": false },
-      { "text": "$250", "correct": false }
+      { "text": "\\$200", "correct": true },
+      { "text": "\\$300", "correct": false },
+      { "text": "\\$100", "correct": false },
+      { "text": "\\$250", "correct": false }
     ],
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["BÁSICO"],
@@ -1361,13 +1361,13 @@
   },
   {
     "id": "MAT00dc",
-    "question": "Un pintor cobra $120 por metro cuadrado. Si debe pintar una pared de 3m de alto por 5m de largo, ¿cuánto cobrará?",
+    "question": "Un pintor cobra \\$120 por metro cuadrado. Si debe pintar una pared de 3m de alto por 5m de largo, ¿cuánto cobrará?",
     "image": null,
     "options": [
-      { "text": "$1,800", "correct": true },
-      { "text": "$1,500", "correct": false },
-      { "text": "$960", "correct": false },
-      { "text": "$360", "correct": false }
+      { "text": "\\$1,800", "correct": true },
+      { "text": "\\$1,500", "correct": false },
+      { "text": "\\$960", "correct": false },
+      { "text": "\\$360", "correct": false }
     ],
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["BÁSICO"],
@@ -1395,13 +1395,13 @@
   },
   {
     "id": "MAT00de",
-    "question": "Luisa tiene el triple de dinero que Ana. Si juntas tienen $800, ¿cuánto dinero tiene Ana?",
+    "question": "Luisa tiene el triple de dinero que Ana. Si juntas tienen \\$800, ¿cuánto dinero tiene Ana?",
     "image": null,
     "options": [
-      { "text": "$200", "correct": true },
-      { "text": "$600", "correct": false },
-      { "text": "$400", "correct": false },
-      { "text": "$150", "correct": false }
+      { "text": "\\$200", "correct": true },
+      { "text": "\\$600", "correct": false },
+      { "text": "\\$400", "correct": false },
+      { "text": "\\$150", "correct": false }
     ],
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["BÁSICO"],
@@ -1412,13 +1412,13 @@
   },
   {
     "id": "MAT00df",
-    "question": "El precio de la gasolina subió un 10%. Si antes costaba $20 el litro, ¿cuánto cuesta ahora?",
+    "question": "El precio de la gasolina subió un 10%. Si antes costaba \\$20 el litro, ¿cuánto cuesta ahora?",
     "image": null,
     "options": [
-      { "text": "$22", "correct": true },
-      { "text": "$21", "correct": false },
-      { "text": "$25", "correct": false },
-      { "text": "$20.2", "correct": false }
+      { "text": "\\$22", "correct": true },
+      { "text": "\\$21", "correct": false },
+      { "text": "\\$25", "correct": false },
+      { "text": "\\$20.2", "correct": false }
     ],
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["BÁSICO"],
@@ -1463,13 +1463,13 @@
   },
   {
     "id": "MAT00di",
-    "question": "Tres hermanos se reparten una herencia. Al mayor le toca la mitad, al mediano la cuarta parte y al menor el resto. Si la herencia es de $12,000, ¿cuánto le toca al menor?",
+    "question": "Tres hermanos se reparten una herencia. Al mayor le toca la mitad, al mediano la cuarta parte y al menor el resto. Si la herencia es de \\$12,000, ¿cuánto le toca al menor?",
     "image": null,
     "options": [
-      { "text": "$3,000", "correct": true },
-      { "text": "$6,000", "correct": false },
-      { "text": "$4,000", "correct": false },
-      { "text": "$2,000", "correct": false }
+      { "text": "\\$3,000", "correct": true },
+      { "text": "\\$6,000", "correct": false },
+      { "text": "\\$4,000", "correct": false },
+      { "text": "\\$2,000", "correct": false }
     ],
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["BÁSICO"],
@@ -1531,7 +1531,7 @@
   },
   {
     "id": "MAT00dm",
-    "question": "En una caja hay monedas de $5 y de $10. Si hay 10 monedas en total y el valor total es de $80, ¿cuántas monedas de $10 hay?",
+    "question": "En una caja hay monedas de \\$5 y de \\$10. Si hay 10 monedas en total y el valor total es de \\$80, ¿cuántas monedas de \\$10 hay?",
     "image": null,
     "options": [
       { "text": "6", "correct": true },
@@ -1541,8 +1541,8 @@
     ],
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["BÁSICO"],
-    "hint": "Prueba con las opciones. Si fueran 5 y 5, el valor sería $25+50=75$ (falta). Necesitas más de $10.",
-    "explanation": "Si hay 6 de $10 ($60) y 4 de $5 ($20), la suma es $80$.",
+    "hint": "Prueba con las opciones. Si fueran 5 y 5, el valor sería \\$25+50=75 (falta). Necesitas más de \\$10.",
+    "explanation": "Si hay 6 de \\$10 (\\$60) y 4 de \\$5 (\\$20), la suma es \\$80.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -1599,13 +1599,13 @@
   },
   {
     "id": "MAT00dq",
-    "question": "Carlos compró un celular a meses sin intereses. Si el precio es de $6,000 y lo pagará en 12 mensualidades iguales, ¿de cuánto es cada pago?",
+    "question": "Carlos compró un celular a meses sin intereses. Si el precio es de \\$6,000 y lo pagará en 12 mensualidades iguales, ¿de cuánto es cada pago?",
     "image": null,
     "options": [
-      { "text": "$500", "correct": true },
-      { "text": "$600", "correct": false },
-      { "text": "$450", "correct": false },
-      { "text": "$550", "correct": false }
+      { "text": "\\$500", "correct": true },
+      { "text": "\\$600", "correct": false },
+      { "text": "\\$450", "correct": false },
+      { "text": "\\$550", "correct": false }
     ],
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["BÁSICO"],
@@ -1650,13 +1650,13 @@
   },
   {
     "id": "MAT00dt",
-    "question": "Un kilo de tortillas cuesta $22. Si llevo $100, ¿cuántos kilos completos puedo comprar y cuánto me sobra?",
+    "question": "Un kilo de tortillas cuesta \\$22. Si llevo \\$100, ¿cuántos kilos completos puedo comprar y cuánto me sobra?",
     "image": null,
     "options": [
-      { "text": "4 kilos y sobran $12", "correct": true },
-      { "text": "4 kilos y sobran $22", "correct": false },
+      { "text": "4 kilos y sobran \\$12", "correct": true },
+      { "text": "4 kilos y sobran \\$22", "correct": false },
       { "text": "5 kilos y falta dinero", "correct": false },
-      { "text": "3 kilos y sobran $34", "correct": false }
+      { "text": "3 kilos y sobran \\$34", "correct": false }
     ],
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["BÁSICO"],
@@ -1735,13 +1735,13 @@
   },
   {
     "id": "MAT00dy",
-    "question": "Un vendedor gana el 5% de comisión sobre sus ventas. Si vendió $20,000, ¿cuánto ganó de comisión?",
+    "question": "Un vendedor gana el 5% de comisión sobre sus ventas. Si vendió \\$20,000, ¿cuánto ganó de comisión?",
     "image": null,
     "options": [
-      { "text": "$1,000", "correct": true },
-      { "text": "$2,000", "correct": false },
-      { "text": "$500", "correct": false },
-      { "text": "$100", "correct": false }
+      { "text": "\\$1,000", "correct": true },
+      { "text": "\\$2,000", "correct": false },
+      { "text": "\\$500", "correct": false },
+      { "text": "\\$100", "correct": false }
     ],
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["BÁSICO"],
@@ -1905,13 +1905,13 @@
   },
   {
     "id": "MAT00ei",
-    "question": "Tres amigos rentan una cancha por $600. Si deciden pagarla en partes iguales, ¿cuánto pone cada uno?",
+    "question": "Tres amigos rentan una cancha por \\$600. Si deciden pagarla en partes iguales, ¿cuánto pone cada uno?",
     "image": null,
     "options": [
-      { "text": "$200", "correct": true },
-      { "text": "$300", "correct": false },
-      { "text": "$150", "correct": false },
-      { "text": "$180", "correct": false }
+      { "text": "\\$200", "correct": true },
+      { "text": "\\$300", "correct": false },
+      { "text": "\\$150", "correct": false },
+      { "text": "\\$180", "correct": false }
     ],
     "uni_tags": ["MATEMÁTICAS"],
     "level_tag": ["BÁSICO"],
@@ -2024,7 +2024,7 @@
   },
   {
     "id": "MAT00ep",
-    "question": "Si el dólar está a $20 pesos, ¿cuántos dólares puedo comprar con $1,000 pesos?",
+    "question": "Si el dólar está a \\$20 pesos, ¿cuántos dólares puedo comprar con \\$1,000 pesos?",
     "image": null,
     "options": [
       { "text": "50 dólares", "correct": true },
