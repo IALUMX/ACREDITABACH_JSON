@@ -9,7 +9,7 @@
       { "text": "Se invirtieron $10,000 al 12% mensual por 2 años.", "correct": false },
       { "text": "Se invirtieron $10,000 al 12% anual por 24 meses sin capitalización.", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Analiza la fórmula del interés compuesto. El exponente representa el número total de periodos de capitalización.",
     "explanation": "El capital inicial $C$ es 10,000. La tasa $r$ es 0.12 (12% anual). Al dividirse entre 12, indica capitalización mensual. El exponente 24 representa $12 \\times 2$, lo que significa que el tiempo $t$ es de 2 años (24 meses).",
@@ -26,7 +26,7 @@
       { "text": "La distancia mínima que se debe recorrer.", "correct": false },
       { "text": "El costo total de un viaje de 5 km.", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
     "hint": "En una ecuación lineal $y = mx + b$, el término independiente $b$ representa el valor cuando $x=0$.",
     "explanation": "El número 20 es la ordenada al origen (intersección con el eje Y). En este contexto, significa el costo cuando la distancia $x$ es 0, es decir, la tarifa base o costo de arranque del servicio.",
@@ -43,7 +43,7 @@
       { "text": "La población aumenta en 2 bacterias cada 3 horas.", "correct": false },
       { "text": "La población se reduce a la mitad cada 3 horas.", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Evalúa la función cuando $t=3$ y compara el resultado con la población inicial $N_0$.",
     "explanation": "Cuando $t=3$, el exponente se convierte en $3/3 = 1$, resultando en $N(3) = N_0 \\cdot 2^1 = 2N_0$. Esto indica que al pasar 3 horas, la cantidad inicial se ha multiplicado por 2 (duplicado).",
@@ -60,7 +60,7 @@
       { "text": "El área aumenta en $\\pi$.", "correct": false },
       { "text": "El área se reduce a la mitad.", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
     "hint": "Sustituye $r$ por $2r$ en la fórmula y eleva al cuadrado.",
     "explanation": "Nueva Área = $\\pi (2r)^2 = \\pi (4r^2) = 4(\\pi r^2)$. Por lo tanto, la nueva área es 4 veces el área original.",
@@ -77,7 +77,7 @@
       { "text": "Es la aceleración de la gravedad.", "correct": false },
       { "text": "Es el tiempo que tarda en caer.", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
     "hint": "Evalúa la función en el tiempo $t=0$.",
     "explanation": "En $t=0$, $h(0) = -4.9(0)^2 + 15(0) + 2 = 2$. Esto representa la posición del objeto en el instante inicial, es decir, la altura de lanzamiento.",
@@ -94,7 +94,7 @@
       { "text": "$P(0.20)(1.10)$", "correct": false },
       { "text": "$P - 0.20 + 0.10$", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Un descuento del 20% significa que pagas el 80%. Un aumento del 10% significa que pagas el 110% de lo acumulado.",
     "explanation": "Aplicar el descuento implica multiplicar por $(1 - 0.20) = 0.80$. Al nuevo monto se le agrega el impuesto multiplicando por $(1 + 0.10) = 1.10$. La operación secuencial es $P \\times 0.80 \\times 1.10$.",
@@ -111,7 +111,7 @@
       { "text": "Es un triángulo equilátero.", "correct": false },
       { "text": "La hipotenusa es igual a uno de los catetos.", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
     "hint": "El Teorema de Pitágoras es $c^2 = a^2 + b^2$. Observa que aquí $b$ ha sido sustituido por $a$.",
     "explanation": "Si $a^2 + b^2$ se convierte en $a^2 + a^2$, significa que los dos catetos son iguales ($a=b$). Un triángulo rectángulo con dos catetos iguales es isósceles.",
@@ -128,7 +128,7 @@
       { "text": "Capital, Interés Compuesto, Años", "correct": false },
       { "text": "Precio, Renta, Tasa", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
     "hint": "Identifica qué significan las letras P, r y t en el contexto financiero básico.",
     "explanation": "En la fórmula $I=Prt$, $P$ representa el Capital (Principal), $r$ la Tasa de interés anual y $t$ el Tiempo.",
@@ -145,7 +145,7 @@
       { "text": "Término lineal, incógnita, constante", "correct": false },
       { "text": "Factor, variable, potencia", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
     "hint": "Analiza las partes de un polinomio cuadrático.",
     "explanation": "El número que multiplica a la variable de mayor potencia es el coeficiente principal (3), la letra es la literal o variable (x), y el número sin letra es el término independiente (-7).",
@@ -162,7 +162,7 @@
       { "text": "m, positivo", "correct": false },
       { "text": "b, cero", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
     "hint": "La inclinación de la recta está dada por la pendiente.",
     "explanation": "La pendiente $m$ determina el comportamiento de la recta. Si $m < 0$ (negativo), la recta desciende de izquierda a derecha.",
@@ -179,7 +179,7 @@
       { "text": "longitud, anchura, base", "correct": false },
       { "text": "base, altura, apotema", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
     "hint": "Fórmula: $A = \\frac{B + b}{2}h$.",
     "explanation": "La fórmula verbalizada es: suma de la base menor ($b$) y la base mayor ($B$), entre dos, por la altura ($h$).",
@@ -196,7 +196,7 @@
       { "text": "A-II; B-I; C-III", "correct": false },
       { "text": "A-III; B-II; C-I", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Visualiza la forma de una cuadrática, una exponencial y una constante.",
     "explanation": "$y=x^2$ es cuadrática (Parábola). $y=3^x$ es exponencial (Crecimiento rápido). $y=5$ es constante (Línea horizontal).",
@@ -213,7 +213,7 @@
       { "text": "El costo total de producción.", "correct": false },
       { "text": "La cantidad de productos a vender para duplicar la inversión.", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Igualar Costos con Ingresos significa que lo que sale es igual a lo que entra.",
     "explanation": "Cuando $C(x) = I(x)$, la utilidad es cero ($I - C = 0$). Este valor de $x$ representa el punto de equilibrio (break-even point).",
@@ -230,7 +230,7 @@
       { "text": "Es poco probable que el evento ocurra.", "correct": false },
       { "text": "El evento es seguro que ocurra.", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
     "hint": "La probabilidad varía entre 0 (imposible) y 1 (seguro). 0.85 está cerca de 1.",
     "explanation": "Una probabilidad de 0.85 (85%) indica una alta certeza de ocurrencia, sin llegar a ser un evento seguro ($P=1$). No garantiza resultados exactos en muestras pequeñas (falacia del jugador), pero sí marca tendencia alta.",
@@ -247,7 +247,7 @@
       { "text": "32 grados", "correct": false },
       { "text": "9 grados", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Analiza la pendiente de la ecuación lineal. $\\frac{9}{5}$ es el factor de cambio.",
     "explanation": "La pendiente $\\frac{9}{5}$ equivale a 1.8. Esto significa que por cada unidad que aumenta $C$, $F$ aumenta en 1.8 unidades.",
@@ -264,7 +264,7 @@
       { "text": "El auto vale $0.90 después de t años.", "correct": false },
       { "text": "El valor del auto aumenta un 90% anualmente.", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
     "hint": "La base de una función exponencial $b^t$ indica crecimiento si $b>1$ y decrecimiento si $0<b<1$.",
     "explanation": "Multiplicar por 0.90 es equivalente a calcular el 90%. Si cada año el valor es el 90% del año anterior, significa que ha perdido el 10% restante.",
@@ -281,7 +281,7 @@
       { "text": "Crecimiento exponencial.", "correct": false },
       { "text": "Relación lineal.", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Despeja $y$. Si $x$ aumenta, ¿qué le pasa a $y$ para que el producto se mantenga constante?",
     "explanation": "Al despejar, $y = k/x$. Si una variable aumenta, la otra debe disminuir proporcionalmente para mantener el producto constante. Esto define la proporcionalidad inversa.",
@@ -298,10 +298,10 @@
       { "text": "$50c - 10p \\le 500$", "correct": false },
       { "text": "$c + p \\le 500$", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
     "hint": "El costo total es precio por cantidad. 'Máximo' implica que no puedes gastar más de lo que tienes.",
-    "explanation": "El costo de cuadernos es $50c$ y el de plumas $10p$. La suma no debe superar ($\\le$) los 500 pesos disponibles.",
+    "explanation": "El costo de cuadernos es $50c$ y el de plumas $10p$. La suma no debe superar ($\le$) los 500 pesos disponibles.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -315,7 +315,7 @@
       { "text": "Desplazamiento 3 unidades a la derecha y 2 hacia abajo.", "correct": false },
       { "text": "Desplazamiento 2 unidades a la derecha y 3 hacia arriba.", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Recuerda que dentro del paréntesis ($x-h$) el signo funciona al contrario para el movimiento horizontal.",
     "explanation": "El término $(x-3)$ indica un desplazamiento horizontal positivo (derecha) de 3 unidades. El término $+2$ fuera del cuadrado indica un desplazamiento vertical positivo (arriba) de 2 unidades.",
@@ -332,7 +332,7 @@
       { "text": "Frecuencia, Intervalo, Marca de clase", "correct": false },
       { "text": "Histograma, Polígono, Ojiva", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
     "hint": "Busca los valores que representan el centro de un conjunto de datos.",
     "explanation": "La media (promedio), mediana (valor central) y moda (valor más frecuente) son las tres medidas principales para describir el centro de una distribución.",
@@ -349,7 +349,7 @@
       { "text": "C, A", "correct": false },
       { "text": "A, C", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Despeja $y$ para llevar la ecuación a la forma $y = mx + b$.",
     "explanation": "Al despejar: $By = -Ax - C \\rightarrow y = (-\\frac{A}{B})x - \\frac{C}{B}$. Por lo tanto, $m = -\\frac{A}{B}$.",
@@ -366,7 +366,7 @@
       { "text": "$x - a$, 0", "correct": false },
       { "text": "$a$, $P(x - a)$", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Es una forma rápida de evaluar polinomios sin hacer la división larga.",
     "explanation": "El teorema indica que al dividir un polinomio por un binomio lineal $x-a$, el residuo obtenido es simplemente el valor del polinomio evaluado en $a$.",
@@ -383,7 +383,7 @@
       { "text": "opuesto, adyacente", "correct": false },
       { "text": "adyacente, opuesto", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["BÁSICO"],
     "hint": "Recuerda la mnemotecnia SOH-CAH-TOA.",
     "explanation": "El seno se define como la razón entre la longitud del cateto opuesto al ángulo y la longitud de la hipotenusa.",
@@ -400,554 +400,10 @@
       { "text": "A-III; B-I; C-II", "correct": false },
       { "text": "A-II; B-I; C-III", "correct": false }
     ],
-    "uni_tags": ["MATEMÁTICAS"],
+    "uni_tags": ["GENERAL"],
     "level_tag": ["INTERMEDIO"],
     "hint": "El logaritmo de una multiplicación es suma, división es resta, exponente baja a multiplicar.",
     "explanation": "El logaritmo de un producto se separa en suma (A-II). El de un cociente en resta (B-III). El de una potencia baja el exponente como coeficiente (C-I).",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00ay",
-    "question": "Si $x$ representa la edad de María y $y$ la edad de Carlos, ¿cuál es la interpretación de la ecuación $x = 2y$?",
-    "image": null,
-    "options": [
-      { "text": "La edad de María es el doble que la de Carlos.", "correct": true },
-      { "text": "La edad de Carlos es el doble que la de María.", "correct": false },
-      { "text": "María tiene 2 años más que Carlos.", "correct": false },
-      { "text": "La suma de las edades es 2.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "El factor 2 multiplica a la variable $y$ para igualar a $x$.",
-    "explanation": "La ecuación indica que para obtener la edad de María ($x$), se debe multiplicar por 2 la edad de Carlos ($y$), lo que significa que María tiene el doble de edad.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00az",
-    "question": "En un corral hay gallinas ($g$) y conejos ($c$). ¿Qué representa la expresión algebraica $2g + 4c$?",
-    "image": null,
-    "options": [
-      { "text": "El número total de patas en el corral.", "correct": true },
-      { "text": "El número total de cabezas en el corral.", "correct": false },
-      { "text": "La suma de los animales.", "correct": false },
-      { "text": "La diferencia entre gallinas y conejos.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Considera cuántas patas tiene cada animal biológicamente.",
-    "explanation": "Las gallinas tienen 2 patas ($2g$) y los conejos 4 patas ($4c$). La suma de estos términos representa el conteo total de patas.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00ba",
-    "question": "Se plantea la ecuación $p = c + 20$, donde $p$ es el precio de venta y $c$ es el costo de producción. ¿Qué significa el número 20?",
-    "image": null,
-    "options": [
-      { "text": "La ganancia o margen fijo por producto.", "correct": true },
-      { "text": "El número de productos vendidos.", "correct": false },
-      { "text": "El porcentaje de impuestos.", "correct": false },
-      { "text": "El costo variable por unidad.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "El precio de venta suele ser el costo más una cantidad extra.",
-    "explanation": "Si al costo se le suman 20 unidades monetarias para obtener el precio, esos 20 representan el beneficio o ganancia obtenida por cada venta.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bb",
-    "question": "Dada la expresión $3x - 5 = 10$, donde $x$ es un número desconocido, ¿cuál es su traducción correcta al lenguaje común?",
-    "image": null,
-    "options": [
-      { "text": "El triple de un número disminuido en 5 es igual a 10.", "correct": true },
-      { "text": "El triple de la diferencia de un número y 5 es 10.", "correct": false },
-      { "text": "Un número menos 5 multiplicado por 3 es 10.", "correct": false },
-      { "text": "La tercera parte de un número menos 5 es 10.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Observa el orden de las operaciones: primero se multiplica, luego se resta.",
-    "explanation": "3x es 'el triple de un número'. El '- 5' indica 'disminuido en 5'. La igualdad es 'es igual a 10'.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bc",
-    "question": "Si $x$ y $y$ son dos números, ¿qué significa la desigualdad $x > y + 10$?",
-    "image": null,
-    "options": [
-      { "text": "$x$ supera a $y$ en más de 10 unidades.", "correct": true },
-      { "text": "$x$ es 10 unidades mayor que $y$.", "correct": false },
-      { "text": "$y$ es mayor que $x$ por 10 unidades.", "correct": false },
-      { "text": "$x$ es menor que $y$ más 10.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "El símbolo $>$ significa 'estrictamente mayor que'.",
-    "explanation": "La expresión dice que $x$ es mayor que la suma de $y$ más 10, lo que implica que la diferencia entre $x$ e $y$ es mayor a 10.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bd",
-    "question": "El perímetro de un rectángulo se modela como $P = 2b + 2h$. Si se plantea $2b + 2h = 60$, ¿qué información nos da?",
-    "image": null,
-    "options": [
-      { "text": "La suma de las longitudes de todos los lados del rectángulo es 60.", "correct": true },
-      { "text": "El área del rectángulo es 60.", "correct": false },
-      { "text": "Cada lado del rectángulo mide 60.", "correct": false },
-      { "text": "La suma de la base y la altura es 60.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Recuerda la definición de perímetro.",
-    "explanation": "El perímetro es la medida del contorno. La fórmula suma dos veces la base y dos veces la altura, igualando esto a 60.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00be",
-    "question": "Un tanque de agua tiene 500 litros y se vacía a razón de 5 litros por minuto. Si $V(t)$ es el volumen y $t$ el tiempo, ¿cuál modelo interpreta esta situación?",
-    "image": null,
-    "options": [
-      { "text": "$V(t) = 500 - 5t$", "correct": true },
-      { "text": "$V(t) = 500 + 5t$", "correct": false },
-      { "text": "$V(t) = 5t - 500$", "correct": false },
-      { "text": "$V(t) = 500t - 5$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Vaciar implica disminuir, busca el signo negativo en la tasa de cambio.",
-    "explanation": "Se inicia con 500 (constante positiva) y se restan 5 litros por cada minuto que pasa ($-5t$).",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bf",
-    "question": "Si $x$ representa el dinero de Ana, la expresión $x/3$ representa:",
-    "image": null,
-    "options": [
-      { "text": "La tercera parte del dinero de Ana.", "correct": true },
-      { "text": "El triple del dinero de Ana.", "correct": false },
-      { "text": "El dinero de Ana menos 3 pesos.", "correct": false },
-      { "text": "El dinero de Ana aumentado en un tercio.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "La división por 3 equivale a tomar una parte de tres.",
-    "explanation": "Dividir una cantidad entre 3 se lee matemáticamente como 'la tercera parte' o 'un tercio de'.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bg",
-    "question": "¿Qué relación entre dos números $a$ y $b$ describe la ecuación $a - b = 0$?",
-    "image": null,
-    "options": [
-      { "text": "Los dos números son iguales.", "correct": true },
-      { "text": "Los dos números son opuestos.", "correct": false },
-      { "text": "El número $a$ es cero.", "correct": false },
-      { "text": "El producto de los números es cero.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Despeja $a$ en la ecuación.",
-    "explanation": "Si $a - b = 0$, al sumar $b$ en ambos lados obtenemos $a = b$, lo que significa que los números tienen el mismo valor.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bh",
-    "question": "La expresión $3(x + 4)$ se traduce verbalmente como:",
-    "image": null,
-    "options": [
-      { "text": "El triple de la suma de un número y 4.", "correct": true },
-      { "text": "El triple de un número más 4.", "correct": false },
-      { "text": "La suma del triple de un número y 4.", "correct": false },
-      { "text": "Un número más el triple de 4.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "El paréntesis indica que la suma se realiza primero.",
-    "explanation": "El factor 3 multiplica a todo el paréntesis, por lo tanto afecta a la 'suma de un número y 4'.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bi",
-    "question": "En la ecuación de costo de un taxi $C = 15x + 8$, donde $x$ son los km recorridos, ¿qué representa el 8?",
-    "image": null,
-    "options": [
-      { "text": "El costo inicial o banderazo.", "correct": true },
-      { "text": "El costo por kilómetro.", "correct": false },
-      { "text": "El total a pagar por 8 km.", "correct": false },
-      { "text": "El costo mínimo por 15 km.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Evalúa el costo cuando no se ha recorrido distancia ($x=0$).",
-    "explanation": "El término independiente (8) es el valor de $C$ cuando $x=0$, representando la tarifa base por contratar el servicio.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bj",
-    "question": "Si $x$ representa la edad actual, ¿qué significa la expresión $x + 10 = 2(x - 5)$?",
-    "image": null,
-    "options": [
-      { "text": "La edad en 10 años será el doble de la edad que se tenía hace 5 años.", "correct": true },
-      { "text": "La edad hace 10 años era el doble de la edad en 5 años.", "correct": false },
-      { "text": "La edad aumentada en 10 es igual a la mitad de la edad disminuida en 5.", "correct": false },
-      { "text": "La edad actual más 10 es el doble de la edad actual menos 5.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Analiza los tiempos verbales: $+10$ es futuro, $-5$ es pasado.",
-    "explanation": "$x+10$ es la edad futura. $x-5$ es la edad pasada. La ecuación iguala el futuro con el doble del pasado.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bk",
-    "question": "Para un concierto se venden boletos de adulto ($x$) a $50 y de niño ($y$) a $20. Se plantea el sistema:\n$\\begin{cases} x + y = 200 \\\\ 50x + 20y = 7000 \\end{cases}$\n¿Qué interpreta la primera ecuación?",
-    "image": null,
-    "options": [
-      { "text": "Se vendieron un total de 200 boletos.", "correct": true },
-      { "text": "Se recaudaron 200 pesos en total.", "correct": false },
-      { "text": "El costo de un boleto de adulto más uno de niño es 200.", "correct": false },
-      { "text": "Hay 200 adultos más que niños.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "La primera ecuación suma cantidades de objetos, no valores monetarios.",
-    "explanation": "Al sumar $x$ (cantidad de adultos) y $y$ (cantidad de niños), el resultado 200 representa la asistencia total o el total de entradas vendidas.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bl",
-    "question": "Analiza el siguiente sistema de ecuaciones sobre las edades de Pedro ($p$) y Juan ($j$):\n$\\begin{cases} p = j + 5 \\\\ p + 3 = 2(j + 3) \\end{cases}$\n¿Cuál es la interpretación correcta?",
-    "image": null,
-    "options": [
-      { "text": "Pedro es 5 años mayor que Juan; en 3 años, Pedro tendrá el doble de la edad de Juan.", "correct": true },
-      { "text": "Pedro es 5 años mayor que Juan; hace 3 años, Pedro tenía el doble de la edad de Juan.", "correct": false },
-      { "text": "Juan es 5 años mayor que Pedro; en 3 años, Juan tendrá el doble de la edad de Pedro.", "correct": false },
-      { "text": "La suma de sus edades es 5; en 3 años sus edades sumarán el doble.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "La expresión $+3$ indica tiempo futuro. La primera ecuación indica diferencia.",
-    "explanation": "$p = j + 5$ implica que Pedro es mayor por 5 años. $(p+3)$ y $(j+3)$ son las edades en el futuro, donde la de Pedro iguala a 2 veces la de Juan.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bm",
-    "question": "En un rectángulo, el largo ($L$) es 4 metros mayor que el ancho ($A$). Su perímetro es 40 m. ¿Qué sistema modela esto?",
-    "image": null,
-    "options": [
-      { "text": "$\\begin{cases} L = A + 4 \\\\ 2L + 2A = 40 \\end{cases}$", "correct": true },
-      { "text": "$\\begin{cases} L = A - 4 \\\\ L + A = 40 \\end{cases}$", "correct": false },
-      { "text": "$\\begin{cases} L + 4 = A \\\\ 2L + 2A = 40 \\end{cases}$", "correct": false },
-      { "text": "$\\begin{cases} L = 4A \\\\ L \\cdot A = 40 \\end{cases}$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "'Mayor que' implica suma. Perímetro es la suma de todos los lados.",
-    "explanation": "Largo es ancho más 4 ($L = A + 4$). El perímetro es la suma de dos largos y dos anchos ($2L + 2A = 40$).",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bn",
-    "question": "Se tiene un frasco con monedas de 5 pesos ($x$) y 10 pesos ($y$). Si el sistema es:\n$\\begin{cases} x + y = 30 \\\\ 5x + 10y = 200 \\end{cases}$\n¿Qué representa la segunda ecuación?",
-    "image": null,
-    "options": [
-      { "text": "El valor total del dinero en el frasco es de $200.", "correct": true },
-      { "text": "Hay 200 monedas en total.", "correct": false },
-      { "text": "La diferencia entre el valor de las monedas es 200.", "correct": false },
-      { "text": "Hay 5 monedas de $x$ y 10 monedas de $y$.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Multiplicar la cantidad de monedas por su denominación da el valor monetario.",
-    "explanation": "$5x$ es el dinero en monedas de 5, $10y$ es el dinero en monedas de 10. Su suma es el valor total monetario.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bo",
-    "question": "Dos autos salen de dos ciudades separadas por 500 km, uno hacia el otro. Si $v_1$ y $v_2$ son sus velocidades y se encuentran en 2 horas, ¿qué interpreta la ecuación $2v_1 + 2v_2 = 500$?",
-    "image": null,
-    "options": [
-      { "text": "La suma de las distancias recorridas por ambos autos es igual a la distancia total entre ciudades.", "correct": true },
-      { "text": "La diferencia de las velocidades es 500 km.", "correct": false },
-      { "text": "El tiempo de encuentro es la suma de las velocidades.", "correct": false },
-      { "text": "Cada auto recorrió 250 km.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Distancia = velocidad $\\times$ tiempo. Si van al encuentro, las distancias se suman.",
-    "explanation": "$2v_1$ es la distancia del auto 1 en 2 horas. $2v_2$ es la distancia del auto 2. Al encontrarse, han cubierto entre los dos la distancia total de separación.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bp",
-    "question": "Se desea mezclar dos soluciones de alcohol. $x$ litros al 20% y $y$ litros al 50% para obtener 10 litros al 30%. Identifica la ecuación de balance de la cantidad de alcohol puro.",
-    "image": null,
-    "options": [
-      { "text": "$0.20x + 0.50y = 0.30(10)$", "correct": true },
-      { "text": "$x + y = 0.30$", "correct": false },
-      { "text": "$20x + 50y = 10$", "correct": false },
-      { "text": "$0.20x + 0.50y = 10$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "El alcohol puro es el porcentaje multiplicado por el volumen.",
-    "explanation": "La cantidad de sustancia pura aportada por la primera solución ($0.20x$) más la segunda ($0.50y$) debe ser igual a la cantidad en la mezcla final ($0.30 \\times 10$).",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bq",
-    "question": "La suma de los dígitos de un número de dos cifras es 12. Si se invierten los dígitos, el nuevo número es 18 unidades mayor. Si $d$ es la decena y $u$ la unidad, ¿cuál ecuación representa el número invertido comparado con el original?",
-    "image": null,
-    "options": [
-      { "text": "$(10u + d) = (10d + u) + 18$", "correct": true },
-      { "text": "$(u + d) = (d + u) + 18$", "correct": false },
-      { "text": "$10u + d = 18(10d + u)$", "correct": false },
-      { "text": "$ud = du + 18$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "El valor de un número es $10 \\times$ decenas + unidades. El invertido cambia las posiciones.",
-    "explanation": "El número original es $10d + u$. El invertido es $10u + d$. La ecuación iguala el invertido con el original más 18 unidades.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00br",
-    "question": "Una empresa fabrica sillas ($x$) y mesas ($y$). Dispone de 50 horas de carpintería. Cada silla requiere 1 hora y cada mesa 2 horas. ¿Qué inecuación representa esta restricción?",
-    "image": null,
-    "options": [
-      { "text": "$1x + 2y \\le 50$", "correct": true },
-      { "text": "$1x + 2y \\ge 50$", "correct": false },
-      { "text": "$x + y \\le 50$", "correct": false },
-      { "text": "$2x + 1y \\le 50$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "La suma del tiempo usado no puede exceder el tiempo disponible.",
-    "explanation": "El tiempo total es la suma del tiempo por silla ($1x$) más el tiempo por mesa ($2y$). Esto debe ser menor o igual a la capacidad disponible (50).",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bs",
-    "question": "Si $I$ son los ingresos por vender $x$ artículos a $50$ pesos cada uno, y $C$ es el costo dado por $30x + 2000$. ¿Qué significa $I > C$?",
-    "image": null,
-    "options": [
-      { "text": "La empresa está obteniendo ganancias.", "correct": true },
-      { "text": "La empresa está en punto de equilibrio.", "correct": false },
-      { "text": "La empresa está perdiendo dinero.", "correct": false },
-      { "text": "El costo supera a los ingresos.", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Ganancia ocurre cuando entra más dinero del que sale.",
-    "explanation": "Si los Ingresos ($I$) son estrictamente mayores que los Costos ($C$), la diferencia es positiva, lo que indica utilidad o ganancia.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bt",
-    "question": "Se invierte un total de $10,000 en dos cuentas, una al 5% ($x$) y otra al 8% ($y$). Si el interés total anual es de $700, ¿cuál es el sistema correcto?",
-    "image": null,
-    "options": [
-      { "text": "$\\begin{cases} x + y = 10000 \\\\ 0.05x + 0.08y = 700 \\end{cases}$", "correct": true },
-      { "text": "$\\begin{cases} x + y = 700 \\\\ 0.05x + 0.08y = 10000 \\end{cases}$", "correct": false },
-      { "text": "$\\begin{cases} x + y = 10000 \\\\ 5x + 8y = 700 \\end{cases}$", "correct": false },
-      { "text": "$\\begin{cases} x \\cdot y = 10000 \\\\ 0.05x = 0.08y \\end{cases}$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Una ecuación es para el capital total y otra para los rendimientos (intereses).",
-    "explanation": "La suma de los capitales es $x+y=10000$. La suma de los intereses generados ($5\\%$ de $x$ y $8\\%$ de $y$) es igual al interés total 700.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bu",
-    "question": "Dos ángulos son suplementarios. Si uno es 20 grados menor que el triple del otro. ¿Qué sistema modela esto (siendo $x$ el mayor y $y$ el menor)?",
-    "image": null,
-    "options": [
-      { "text": "$\\begin{cases} x + y = 180 \\\\ y = 3x - 20 \\end{cases}$", "correct": false },
-      { "text": "$\\begin{cases} x + y = 180 \\\\ x = 3y - 20 \\end{cases}$", "correct": true },
-      { "text": "$\\begin{cases} x + y = 90 \\\\ x = 3y - 20 \\end{cases}$", "correct": false },
-      { "text": "$\\begin{cases} x = y + 180 \\\\ x = 3y + 20 \\end{cases}$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Suplementarios suman 180°. Revisa quién es el triple de quién.",
-    "explanation": "Suplementarios: $x+y=180$. 'Uno ($x$) es ($=$) 20 menos que ($-20$) el triple del otro ($3y$)': $x = 3y - 20$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bv",
-    "question": "En una competencia, el equipo A tiene el doble de puntos que el equipo B menos 5. Si entre los dos suman 85 puntos, ¿cuál es la interpretación algebraica?",
-    "image": null,
-    "options": [
-      { "text": "$\\begin{cases} A = 2B - 5 \\\\ A + B = 85 \\end{cases}$", "correct": true },
-      { "text": "$\\begin{cases} B = 2A - 5 \\\\ A + B = 85 \\end{cases}$", "correct": false },
-      { "text": "$\\begin{cases} A = 2(B - 5) \\\\ A + B = 85 \\end{cases}$", "correct": false },
-      { "text": "$\\begin{cases} A - 5 = 2B \\\\ A \\cdot B = 85 \\end{cases}$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Traduce 'el doble de puntos que el equipo B menos 5' literalmente.",
-    "explanation": "$A$ es igual a $2B$ disminuido en 5 ($A = 2B - 5$). La suma de ambos puntajes es 85 ($A+B=85$).",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bw",
-    "question": "El área de un rectángulo es de $24 \\text{ m}^2$. Si el largo mide 2 metros más que el ancho ($x$), ¿cuál es la ecuación para encontrar las dimensiones?",
-    "image": null,
-    "options": [
-      { "text": "$x(x + 2) = 24$", "correct": true },
-      { "text": "$x + (x + 2) = 24$", "correct": false },
-      { "text": "$2x + 2(x + 2) = 24$", "correct": false },
-      { "text": "$x^2 + 2 = 24$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "El área de un rectángulo es base por altura ($A = b \\cdot h$).",
-    "explanation": "Si el ancho es $x$, el largo es $x+2$. El producto de ambos debe ser igual al área total (24).",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bx",
-    "question": "Se compraron $x$ lápices a un precio total de $60. Si cada lápiz hubiera costado $1 peso menos, se habrían podido comprar 3 lápices más con la misma cantidad de dinero. ¿Cuál es el planteamiento correcto para encontrar el número de lápices?",
-    "image": null,
-    "options": [
-      { "text": "$(\\frac{60}{x} - 1)(x + 3) = 60$", "correct": true },
-      { "text": "$(\\frac{60}{x} + 1)(x - 3) = 60$", "correct": false },
-      { "text": "$(x - 1)(60 + 3) = 60$", "correct": false },
-      { "text": "$60x - 1 = 60(x+3)$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "El precio unitario original es $\\frac{60}{x}$. El nuevo precio es ese valor menos 1. La nueva cantidad es $x+3$.",
-    "explanation": "El costo total siempre es Precio Unitario $\\times$ Cantidad. El precio nuevo es $(\\frac{60}{x} - 1)$ y la cantidad nueva es $(x+3)$. Su producto debe seguir siendo el gasto total de 60.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00by",
-    "question": "La suma de los cuadrados de dos números consecutivos es 145. Si $n$ es el número menor, ¿cómo se representa esto algebraicamente?",
-    "image": null,
-    "options": [
-      { "text": "$n^2 + (n+1)^2 = 145$", "correct": true },
-      { "text": "$(n + n+1)^2 = 145$", "correct": false },
-      { "text": "$n^2 + n^2 + 1 = 145$", "correct": false },
-      { "text": "$2n^2 + 1 = 145$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Dos números consecutivos se representan como $n$ y $n+1$. Debes elevar cada uno al cuadrado por separado.",
-    "explanation": "Se pide la suma de los cuadrados ($x^2 + y^2$), no el cuadrado de la suma ($(x+y)^2$). Por lo tanto es el primer número al cuadrado más el siguiente consecutivo al cuadrado.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00bz",
-    "question": "Un padre tiene 40 años y su hijo 10. ¿Dentro de cuántos años ($x$) la edad del padre será el triple de la del hijo? Identifica la ecuación.",
-    "image": null,
-    "options": [
-      { "text": "$40 + x = 3(10 + x)$", "correct": true },
-      { "text": "$40 + x = 3(10) + x$", "correct": false },
-      { "text": "$40 = 3(10 + x)$", "correct": false },
-      { "text": "$3(40 + x) = 10 + x$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Ambos envejecen la misma cantidad de años $x$. El factor 3 multiplica a la edad futura del hijo.",
-    "explanation": "La edad futura del padre es $40+x$ y la del hijo $10+x$. La ecuación iguala la edad futura del padre con el triple ($3\\times$) de la edad futura del hijo.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00ca",
-    "question": "Para cercar un terreno rectangular de $600 \\text{ m}^2$ se usaron 100 metros de malla (perímetro). Si $x$ es el largo, ¿cuál es la ecuación que permite hallar las dimensiones?",
-    "image": null,
-    "options": [
-      { "text": "$x(50 - x) = 600$", "correct": true },
-      { "text": "$x(100 - x) = 600$", "correct": false },
-      { "text": "$2x + 2(600/x) = 100$", "correct": false },
-      { "text": "$x^2 + 100x - 600 = 0$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Si el perímetro es 100, la suma de largo + ancho es 50 (semiperímetro).",
-    "explanation": "Si $L + A = 50$, entonces $A = 50 - L$. El área es $L \\times A$, por lo que $x(50-x) = 600$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00cb",
-    "question": "Un número excede a otro en 5 unidades. Si el producto de ambos es 150, ¿cuál es el planteamiento correcto si $x$ es el número menor?",
-    "image": null,
-    "options": [
-      { "text": "$x(x + 5) = 150$", "correct": true },
-      { "text": "$x(x - 5) = 150$", "correct": false },
-      { "text": "$x + (x + 5) = 150$", "correct": false },
-      { "text": "$x^2 + 5 = 150$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Si el menor es $x$, el mayor es $x+5$.",
-    "explanation": "El enunciado habla del producto (multiplicación) de un número ($x$) y otro que es 5 unidades mayor ($x+5$).",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00cc",
-    "question": "Se mezclan $x$ litros de una solución al 20% de alcohol con $y$ litros de una solución al 50% para obtener 20 litros al 30%. ¿Cuál sistema modela la situación?",
-    "image": null,
-    "options": [
-      { "text": "$\\begin{cases} x + y = 20 \\\\ 0.20x + 0.50y = 0.30(20) \\end{cases}$", "correct": true },
-      { "text": "$\\begin{cases} x + y = 30 \\\\ 20x + 50y = 20 \\end{cases}$", "correct": false },
-      { "text": "$\\begin{cases} x = y + 20 \\\\ 0.2x + 0.5y = 30 \\end{cases}$", "correct": false },
-      { "text": "$\\begin{cases} x + y = 20 \\\\ 0.2x + 0.5y = 0.3 \\end{cases}$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Una ecuación es para el volumen total y la otra para la cantidad pura de alcohol (volumen $\\times$ porcentaje).",
-    "explanation": "La suma de litros es 20 ($x+y=20$). La suma del alcohol puro es $0.20x + 0.50y$, que debe ser igual al alcohol total en la mezcla ($0.30 \\times 20$).",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "MAT00cd",
-    "question": "Un grupo de amigos paga $1200 por una cena. Si hubieran ido 2 amigos más, cada uno habría pagado $30 menos. Si $x$ es el número original de amigos, ¿cuál es la ecuación?",
-    "image": null,
-    "options": [
-      { "text": "$(\\frac{1200}{x} - 30)(x + 2) = 1200$", "correct": true },
-      { "text": "$(\\frac{1200}{x} + 30)(x - 2) = 1200$", "correct": false },
-      { "text": "$\\frac{1200}{x+2} = \\frac{1200}{x} + 30$", "correct": false },
-      { "text": "$(x + 2)(x - 30) = 1200$", "correct": false }
-    ],
-    "uni_tags": ["MATEMÁTICAS"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Costo original por persona es $1200/x$. Al aumentar personas, el costo disminuye.",
-    "explanation": "El nuevo costo por persona es $(\\frac{1200}{x} - 30)$. La nueva cantidad de personas es $(x+2)$. El producto debe seguir siendo la cuenta total de $1200.",
     "explanative_video": null,
     "collapsible_text": null
   }
