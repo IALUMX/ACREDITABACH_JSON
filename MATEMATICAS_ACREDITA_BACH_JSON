@@ -950,5 +950,5 @@
     "explanation": "El nuevo costo por persona es $(\\frac{1200}{x} - 30)$. La nueva cantidad de personas es $(x+2)$. El producto debe seguir siendo la cuenta total de $1200.",
     "explanative_video": null,
     "collapsible_text": null
-  },
+  }
 ]
